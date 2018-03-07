@@ -1,0 +1,1 @@
+cmd_/home/srikant/APES_HW4/kthread_module/kthread.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/srikant/APES_HW4/kthread_module/kthread.ko /home/srikant/APES_HW4/kthread_module/kthread.o /home/srikant/APES_HW4/kthread_module/kthread.mod.o ;  true

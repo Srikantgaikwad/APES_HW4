@@ -1,0 +1,1 @@
+cmd_/home/srikant/APES_HW4/kthread_multithread/kthreadAPI.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/srikant/APES_HW4/kthread_multithread/kthreadAPI.ko /home/srikant/APES_HW4/kthread_multithread/kthreadAPI.o /home/srikant/APES_HW4/kthread_multithread/kthreadAPI.mod.o ;  true
